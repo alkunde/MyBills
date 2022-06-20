@@ -1,4 +1,4 @@
-package com.mybills.newarchitecture.components;
+package br.com.mobiletkbrazil.mybills.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

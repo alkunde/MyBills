@@ -1,4 +1,4 @@
-package com.mybills.newarchitecture.modules;
+package br.com.mobiletkbrazil.mybills.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

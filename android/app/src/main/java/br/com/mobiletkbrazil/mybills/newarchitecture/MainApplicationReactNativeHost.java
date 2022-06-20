@@ -1,4 +1,4 @@
-package com.mybills.newarchitecture;
+package br.com.mobiletkbrazil.mybills.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.mybills.BuildConfig;
-import com.mybills.newarchitecture.components.MainComponentsRegistry;
-import com.mybills.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import br.com.mobiletkbrazil.mybills.BuildConfig;
+import br.com.mobiletkbrazil.mybills.newarchitecture.components.MainComponentsRegistry;
+import br.com.mobiletkbrazil.mybills.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
